@@ -1,88 +1,11 @@
-[Apr 01, 2025 16:17:50] - tracker - [INFO]: Telegram client started
-[Apr 01, 2025 16:17:50] - tracker - [INFO]: Starting NFT tracker
-[Apr 01, 2025 16:17:50] - tracker - [INFO]: Message queue worker started
-[Apr 01, 2025 16:17:50] - tracker - [INFO]: Starting to track 59 collections
-[Apr 01, 2025 16:17:55] - tracker - [INFO]: Updated TamaGadget supply to #49583
-[Apr 01, 2025 16:17:59] - tracker - [INFO]: Updated SnowGlobe supply to #22938
-[Apr 01, 2025 16:18:03] - tracker - [INFO]: Updated CandyCane supply to #68996
-[Apr 01, 2025 16:18:07] - tracker - [INFO]: Updated WinterWreath supply to #29035
-[Apr 01, 2025 16:18:11] - tracker - [INFO]: Updated SantaHat supply to #44022
-[Apr 01, 2025 16:18:15] - tracker - [INFO]: Updated SignetRing supply to #14293
-[Apr 01, 2025 16:18:19] - tracker - [INFO]: Updated PreciousPeach supply to #2847
-[Apr 01, 2025 16:18:23] - tracker - [INFO]: Updated StarNotepad supply to #36303
-[Apr 01, 2025 16:18:27] - tracker - [INFO]: Updated PlushPepe supply to #2810
-[Apr 01, 2025 16:18:31] - tracker - [INFO]: Updated SpicedWine supply to #54627
-[Apr 01, 2025 16:18:34] - tracker - [INFO]: Published: Candy Cane-68997
-[Apr 01, 2025 16:18:35] - tracker - [INFO]: Updated JellyBunny supply to #60053
-[Apr 01, 2025 16:18:39] - tracker - [INFO]: Updated DurovsCap supply to #4661
-[Apr 01, 2025 16:18:40] - tracker - [INFO]: Updated WinterWreath supply to #29036
-[Apr 01, 2025 16:18:44] - tracker - [INFO]: Updated PerfumeBottle supply to #3883
-[Apr 01, 2025 16:18:47] - tracker - [INFO]: Updated EternalRose supply to #20961
-[Apr 01, 2025 16:18:53] - tracker - [INFO]: Updated BerryBox supply to #30344
-[Apr 01, 2025 16:18:56] - tracker - [INFO]: Published: Berry Box-30345
-[Apr 01, 2025 16:18:57] - tracker - [INFO]: Updated VintageCigar supply to #20384
-[Apr 01, 2025 16:19:02] - tracker - [INFO]: Updated MagicPotion supply to #4761
-[Apr 01, 2025 16:19:06] - tracker - [INFO]: Updated KissedFrog supply to #13572
-[Apr 01, 2025 16:19:09] - tracker - [INFO]: Updated HexPot supply to #38036
-[Apr 01, 2025 16:19:13] - tracker - [INFO]: Updated EvilEye supply to #50740
-[Apr 01, 2025 16:19:18] - tracker - [INFO]: Updated SharpTongue supply to #7457
-[Apr 01, 2025 16:19:22] - tracker - [INFO]: Updated TrappedHeart supply to #22263
-[Apr 01, 2025 16:19:23] - tracker - [INFO]: Updated KissedFrog supply to #13572
-[Apr 01, 2025 16:19:26] - tracker - [INFO]: Updated SkullFlower supply to #18530
-[Apr 01, 2025 16:19:27] - tracker - [INFO]: Updated CandyCane supply to #68997
-[Apr 01, 2025 16:19:30] - tracker - [INFO]: Published: Candy Cane-68998
-[Apr 01, 2025 16:19:30] - tracker - [INFO]: Updated ScaredCat supply to #18695
-[Apr 01, 2025 16:19:32] - tracker - [INFO]: Published: Snow Globe-22939
-[Apr 01, 2025 16:19:32] - tracker - [INFO]: Published: Star Notepad-36304
-[Apr 01, 2025 16:19:34] - tracker - [INFO]: Updated BerryBox supply to #30345
-[Apr 01, 2025 16:19:36] - tracker - [INFO]: Updated SpyAgaric supply to #73122
-[Apr 01, 2025 16:19:41] - tracker - [INFO]: Updated HomemadeCake supply to #163618
-[Apr 01, 2025 16:19:41] - tracker - [INFO]: Updated CandyCane supply to #68997
-[Apr 01, 2025 16:19:44] - tracker - [INFO]: Published: Candy Cane-68998
-[Apr 01, 2025 16:19:46] - tracker - [INFO]: Updated GenieLamp supply to #5312
-[Apr 01, 2025 16:19:50] - tracker - [INFO]: Updated LunarSnake supply to #103285
-[Apr 01, 2025 16:19:55] - tracker - [INFO]: Updated SnowGlobe supply to #22939
-[Apr 01, 2025 16:19:55] - tracker - [INFO]: Updated PartySparkler supply to #93340
-[Apr 01, 2025 16:19:56] - tracker - [INFO]: Published: Tama Gadget-49584
-[Apr 01, 2025 16:19:59] - tracker - [INFO]: Updated JesterHat supply to #68971
-[Apr 01, 2025 16:20:04] - tracker - [INFO]: Updated WitchHat supply to #67422
-[Apr 01, 2025 16:20:07] - tracker - [INFO]: Published: Lunar Snake-103286
-[Apr 01, 2025 16:20:08] - tracker - [INFO]: Updated HangingStar supply to #25775
-[Apr 01, 2025 16:20:12] - tracker - [INFO]: Updated LoveCandle supply to #13289
-[Apr 01, 2025 16:20:16] - tracker - [INFO]: Published: Lunar Snake-103287
-[Apr 01, 2025 16:20:17] - tracker - [INFO]: Updated CookieHeart supply to #91597
-[Apr 01, 2025 16:20:21] - tracker - [INFO]: Published: Cookie Heart-91598
-[Apr 01, 2025 16:20:22] - tracker - [INFO]: Updated DeskCalendar supply to #312424
-[Apr 01, 2025 16:20:25] - tracker - [INFO]: Updated HangingStar supply to #25775
-[Apr 01, 2025 16:20:26] - tracker - [INFO]: Updated JingleBells supply to #43028
-[Apr 01, 2025 16:20:29] - tracker - [INFO]: Published: Cookie Heart-91599
-[Apr 01, 2025 16:20:30] - tracker - [INFO]: Updated SnowMittens supply to #22761
-[Apr 01, 2025 16:20:34] - tracker - [INFO]: Updated VoodooDoll supply to #21783
-[Apr 01, 2025 16:20:38] - tracker - [INFO]: Updated MadPumpkin supply to #14562
-[Apr 01, 2025 16:20:41] - tracker - [INFO]: Updated WinterWreath supply to #29036
-[Apr 01, 2025 16:20:41] - tracker - [INFO]: Updated DurovsCap supply to #4661
-[Apr 01, 2025 16:20:42] - tracker - [INFO]: Updated HypnoLollipop supply to #42754
-[Apr 01, 2025 16:20:43] - tracker - [INFO]: Updated HexPot supply to #38036
-[Apr 01, 2025 16:20:45] - tracker - [INFO]: Updated PartySparkler supply to #93340
-[Apr 01, 2025 16:20:47] - tracker - [INFO]: Updated BDayCandle supply to #38884
-[Apr 01, 2025 16:20:49] - tracker - [INFO]: Published: Tama Gadget-49585
-[Apr 01, 2025 16:20:50] - tracker - [INFO]: Published: B-Day Candle-38885
-[Apr 01, 2025 16:20:51] - tracker - [INFO]: Updated BunnyMuffin supply to #28635
-[Apr 01, 2025 16:20:56] - tracker - [INFO]: Updated AstralShard supply to #4777
-[Apr 01, 2025 16:21:00] - tracker - [INFO]: Updated FlyingBroom supply to #20609
-[Apr 01, 2025 16:21:02] - tracker - [INFO]: Published: Party Sparkler-93341
-[Apr 01, 2025 16:21:04] - tracker - [INFO]: Updated CrystalBall supply to #20122
-[Apr 01, 2025 16:21:07] - tracker - [INFO]: Updated EternalCandle supply to #31243
-[Apr 01, 2025 16:21:12] - tracker - [INFO]: Updated SwissWatch supply to #20228
-[Apr 01, 2025 16:21:14] - tracker - [INFO]: Published: Hanging Star-25776
-[Apr 01, 2025 16:21:14] - tracker - [INFO]: Updated WitchHat supply to #67422
-[Apr 01, 2025 16:21:15] - tracker - [INFO]: Updated GingerCookie supply to #77412
-[Apr 01, 2025 16:21:19] - tracker - [INFO]: Updated MiniOscar supply to #3866
-[Apr 01, 2025 16:21:22] - tracker - [INFO]: Published: Candy Cane-68999
-[Apr 01, 2025 16:21:24] - tracker - [INFO]: Updated LolPop supply to #236004
-[Apr 01, 2025 16:21:24] - tracker - [INFO]: Published: Santa Hat-44023
-[Apr 01, 2025 16:21:25] - tracker - [INFO]: Shutting down...
-[Apr 01, 2025 16:21:25] - asyncio - [ERROR]: unhandled exception during asyncio.run() shutdown
+[Apr 01, 2025 16:24:16] - tracker - [INFO]: Telegram client started
+[Apr 01, 2025 16:24:16] - tracker - [INFO]: Starting NFT tracker
+[Apr 01, 2025 16:24:16] - tracker - [INFO]: Message queue worker started
+[Apr 01, 2025 16:24:16] - tracker - [INFO]: Starting to track 59 collections
+[Apr 01, 2025 16:24:19] - tracker - [INFO]: Updated TamaGadget supply to #49587
+[Apr 01, 2025 16:24:23] - tracker - [INFO]: Updated SnowGlobe supply to #22941
+[Apr 01, 2025 16:24:24] - tracker - [INFO]: Shutting down...
+[Apr 01, 2025 16:24:24] - asyncio - [ERROR]: unhandled exception during asyncio.run() shutdown
 task: <Task finished name='Task-1' coro=<main() done, defined at C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py:7> exception=RuntimeError("Task <Task pending name='Task-1' coro=<main() running at C:\\Users\\LocalAdmin\\Downloads\\Трекер минтов для групп\\main.py:28> cb=[gather.<locals>._done_callback() at C:\\Users\\LocalAdmin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py:718]> got Future <Task pending name='Task-31' coro=<Dispatcher.handler_worker() running at C:\\Users\\LocalAdmin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyrogram\\dispatcher.py:337>> attached to a different loop")>
 Traceback (most recent call last):
   File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
@@ -110,8 +33,10 @@ Traceback (most recent call last):
     await self.start_tracking(col)
   File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 259, in start_tracking
     await self.update_supply(collection)
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 118, in update_supply
-    await asyncio.sleep(random.uniform(0.5, 2.0))
+  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 120, in update_supply
+    data = await parse_gift(f"{collection}-1")
+  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\parser.py", line 63, in parse_gift
+    await asyncio.sleep(3)
   File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 609, in sleep
     return await future
 asyncio.exceptions.CancelledError
@@ -122,4 +47,4 @@ Traceback (most recent call last):
   File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py", line 28, in main
     await telegram_client.stop()
 RuntimeError: Task <Task pending name='Task-1' coro=<main() running at C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py:28> cb=[gather.<locals>._done_callback() at C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py:718]> got Future <Task pending name='Task-31' coro=<Dispatcher.handler_worker() running at C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py:337>> attached to a different loop
-[Apr 01, 2025 16:21:25] - tracker - [INFO]: Bot stopped by user
+[Apr 01, 2025 16:24:24] - tracker - [INFO]: Bot stopped by user
