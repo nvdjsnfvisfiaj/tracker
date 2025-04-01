@@ -1,0 +1,3 @@
+aiogram==3.17.0
+pyrofork==2.3.58
+asyncio==3.4.3
