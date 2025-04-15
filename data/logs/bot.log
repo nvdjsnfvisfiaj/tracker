@@ -1,50 +1,6 @@
-[Apr 01, 2025 16:24:16] - tracker - [INFO]: Telegram client started
-[Apr 01, 2025 16:24:16] - tracker - [INFO]: Starting NFT tracker
-[Apr 01, 2025 16:24:16] - tracker - [INFO]: Message queue worker started
-[Apr 01, 2025 16:24:16] - tracker - [INFO]: Starting to track 59 collections
-[Apr 01, 2025 16:24:19] - tracker - [INFO]: Updated TamaGadget supply to #49587
-[Apr 01, 2025 16:24:23] - tracker - [INFO]: Updated SnowGlobe supply to #22941
-[Apr 01, 2025 16:24:24] - tracker - [INFO]: Shutting down...
-[Apr 01, 2025 16:24:24] - asyncio - [ERROR]: unhandled exception during asyncio.run() shutdown
-task: <Task finished name='Task-1' coro=<main() done, defined at C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py:7> exception=RuntimeError("Task <Task pending name='Task-1' coro=<main() running at C:\\Users\\LocalAdmin\\Downloads\\Трекер минтов для групп\\main.py:28> cb=[gather.<locals>._done_callback() at C:\\Users\\LocalAdmin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\asyncio\\tasks.py:718]> got Future <Task pending name='Task-31' coro=<Dispatcher.handler_worker() running at C:\\Users\\LocalAdmin\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyrogram\\dispatcher.py:337>> attached to a different loop")>
-Traceback (most recent call last):
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 44, in run
-    return loop.run_until_complete(main)
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 628, in run_until_complete
-    self.run_forever()
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 316, in run_forever
-    super().run_forever()
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 595, in run_forever
-    self._run_once()
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1845, in _run_once
-    event_list = self._selector.select(timeout)
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 434, in select
-    self._poll(timeout)
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 783, in _poll
-    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
-KeyboardInterrupt
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py", line 14, in main
-    await tracker.run()
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 274, in run
-    await self.start_tracking(col)
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 259, in start_tracking
-    await self.update_supply(collection)
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\tracker.py", line 120, in update_supply
-    data = await parse_gift(f"{collection}-1")
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\src\root\parser.py", line 63, in parse_gift
-    await asyncio.sleep(3)
-  File "C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 609, in sleep
-    return await future
-asyncio.exceptions.CancelledError
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py", line 28, in main
-    await telegram_client.stop()
-RuntimeError: Task <Task pending name='Task-1' coro=<main() running at C:\Users\LocalAdmin\Downloads\Трекер минтов для групп\main.py:28> cb=[gather.<locals>._done_callback() at C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py:718]> got Future <Task pending name='Task-31' coro=<Dispatcher.handler_worker() running at C:\Users\LocalAdmin\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py:337>> attached to a different loop
-[Apr 01, 2025 16:24:24] - tracker - [INFO]: Bot stopped by user
+[Apr 15, 2025 12:03:03] - tracker - [INFO]: Telegram client started
+[Apr 15, 2025 12:03:03] - tracker - [INFO]: Starting NFT tracker
+[Apr 15, 2025 12:03:03] - tracker - [INFO]: Message queue worker started
+[Apr 15, 2025 12:03:03] - tracker - [INFO]: Starting to track 59 collections
+[Apr 15, 2025 12:03:07] - tracker - [INFO]: Updated TamaGadget supply to #53820
+[Apr 15, 2025 12:03:11] - tracker - [INFO]: Updated SnowGlobe supply to #25371
